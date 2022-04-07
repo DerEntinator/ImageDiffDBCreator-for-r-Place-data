@@ -36,4 +36,6 @@ the block number applies an offset to x,y of the image size depending on block l
 
 ---
 
-Raw place data from https://github.com/ProstoSanja at https://github.com/ProstoSanja
+Raw place data from https://github.com/ProstoSanja at https://github.com/ProstoSanja  
+
+Compiled in Visual Studio 2022 targeting .Net6.0
