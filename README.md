@@ -32,4 +32,8 @@ i.e. 0-1648822500.png -> 1-1648822500.png
 
 the block number applies an offset to x,y of the image size depending on block location  
 0 1  
-2 3
+2 3  
+
+---
+
+Raw place data from https://github.com/ProstoSanja at https://github.com/ProstoSanja
