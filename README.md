@@ -38,4 +38,6 @@ the block number applies an offset to x,y of the image size depending on block l
 
 Raw place data from https://github.com/ProstoSanja at https://place.thatguyalex.com/
 
-Compiled in Visual Studio 2022 targeting .Net6.0
+Compiled in Visual Studio 2022 targeting .Net6.0  
+
+Inspired by https://www.reddit.com/r/place/comments/6396u5/rplace_archive_update/
